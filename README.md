@@ -5,18 +5,8 @@ WARNING: Name of collections are their unique identifier. Do not create 2 collec
 ## Move a photo to a collection
 ## Delete a photo
 
-## Usage
 
-``` bash
-# Install dependencies
-npm install
+# Usage
 
-# Build for production
-tns build <platform> --bundle
-
-# Build, watch for changes and debug the application
-tns debug <platform> --bundle
-
-# Build, watch for changes and run the application
-tns run <platform> --bundle
-```
+Install dependencies: ```npm install```
+Run NativeScript ```tns run ios --bundle```
